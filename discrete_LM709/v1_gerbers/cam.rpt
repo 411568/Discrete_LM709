@@ -1,0 +1,14 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\User\Documents\Temporary_documents\LM709_PCB\discrete_LM709\v1_gerbers\cam.drl
+Format: 2.4
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0280		12
+ 2 		0.0402		8
+ 3 		0.1181		4
